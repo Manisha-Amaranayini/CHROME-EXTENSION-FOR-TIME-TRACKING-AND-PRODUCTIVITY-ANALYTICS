@@ -53,3 +53,7 @@ How It Works Background Script: Listens to tab activation (chrome.tabs.onActivat
 Extension Interface: Users can click the extension icon in the toolbar to view the tracked time in the popup. Possible Enhancements
 
 Advanced Features: Add daily/weekly reports of website usage. Include a reset button in the popup to clear time data.
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/ff577efb-b109-4451-a673-1701a307a5d5)
